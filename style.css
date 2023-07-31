@@ -1,0 +1,29 @@
+body{ background-color: #FF337E;
+    font-family: 'Playfair Display', serif;
+color: beige;
+}
+
+img{ width: 500px;
+    border-radius: 40px;
+}
+.Astronauta{
+    width: 300px;
+
+}
+.title-astrobiología { 
+    font-size: 40px;
+}
+
+.title-misiones{
+    color: blue;
+}
+.title-espacio{
+    color: blue;
+}
+.title-universo{
+    font-size: 80px;
+}
+.main-title{ 
+    font-family: 'Lobster', cursive;
+font-family: 'Playfair Display', serif;
+}
